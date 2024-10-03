@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="bg border-l-amber-500 text-3xl">
-      hello
-     
+      hello world!!
     </div>
   );
 }
