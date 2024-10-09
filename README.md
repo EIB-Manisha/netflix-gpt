@@ -24,6 +24,14 @@ add hard coded values to the constant files
 -Update store with trailer video data
 -embeded the youtube video and make it autoplay and mute
 -tailwind classes to make Maincontainer look awesome
+-Build Secondary Component
+-Build Movie List
+-Build Movie card
+-Build Custom Hooks for Movie cards
+-TMDB image CDN URL
+-Maid the browse page amazing with tailwind css
+-GPT Search Features
+
 
 
 # Features
